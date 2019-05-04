@@ -1,0 +1,5 @@
+*.html linguist-vendored
+*.json linguist-vendored
+migrations/* linguist-vendored
+src/* linguist-vendored
+*.sol  linguist-language=Solidity
