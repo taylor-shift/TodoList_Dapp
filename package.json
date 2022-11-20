@@ -25,6 +25,6 @@
   "dependencies": {
     "jquery": "^3.5.0",
     "popper": "^1.0.1",
-    "truffle-hdwallet-provider": "^1.0.8"
+    "truffle-hdwallet-provider": "^1.0.17"
   }
 }
